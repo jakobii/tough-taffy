@@ -1,4 +1,4 @@
-module github.com/jakobii/rather
+module github.com/jakobii/tough-taffy
 
 go 1.15
 

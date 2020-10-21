@@ -2,7 +2,7 @@ package db
 
 import (
 	"github.com/google/uuid"
-	"github.com/jakobii/rather/user"
+	"github.com/jakobii/tough-taffy/user"
 )
 
 // Driver defines all methods that can be performed on the database.

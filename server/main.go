@@ -1,6 +1,6 @@
 package main
 
-import "github.com/jakobii/rather/db"
+import "github.com/jakobii/tough-taffy/db"
 
 // DB the database driver for the server.
 // DB should be created at the begining of the program

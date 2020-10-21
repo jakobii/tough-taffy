@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/google/uuid"
-	"github.com/jakobii/rather/user"
+	"github.com/jakobii/tough-taffy/user"
 )
 
 // TestMemDriver prevents compilation, if MemDB does not impletement all the

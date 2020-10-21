@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/google/uuid"
-	"github.com/jakobii/rather/user"
+	"github.com/jakobii/tough-taffy/user"
 )
 
 type mapdb = *map[string][]interface{}

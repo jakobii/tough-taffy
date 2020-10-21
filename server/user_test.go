@@ -7,9 +7,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/jakobii/rather/db"
+	"github.com/jakobii/tough-taffy/db"
 
-	"github.com/jakobii/rather/user"
+	"github.com/jakobii/tough-taffy/user"
 )
 
 const wantgot string = "want: %v, got: %v"
